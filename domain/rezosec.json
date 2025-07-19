@@ -1,8 +1,10 @@
 {
+  "description": "rezosec.is-a.dev",
   "owner": {
-    "username": "alimorid"
+    "username": "alimorid",
+    "email": "ali78morid@mail.com"
   },
   "records": {
-    "A": "185.92.182.160"
-  },
+    "A": ["185.92.182.160"]
+  }
 }
